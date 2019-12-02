@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/dukedhx/viewer-expo-react-native.svg?branch=master)](https://travis-ci.org/dukedhx/viewer-expo-react-native)
 [![Expo](https://img.shields.io/badge/ExpoSDK-v35-blue.svg)](https://expo.io/)
 [![React Native](https://img.shields.io/badge/ReactNative-v0.59-green.svg)](https://facebook.github.io/react-native/)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)

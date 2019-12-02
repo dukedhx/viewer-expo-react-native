@@ -1,6 +1,6 @@
 
 const modelAssets = {
-  // '/assets/path/to/model/file': require('./assets/path/to/model/file')
+  // 'assets/path/to/model/file': require('./assets/path/to/model/file')  //key must have no preceding slash
 
 }
 

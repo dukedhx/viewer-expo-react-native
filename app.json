@@ -6,7 +6,8 @@
     "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "web"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +24,11 @@
       "assets/**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.autodesk.viewerExpo"
+    },
+    "android": {
+      "package": "com.autodesk.viewerExpo"
     }
   }
 }
