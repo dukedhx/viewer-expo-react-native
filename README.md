@@ -81,6 +81,12 @@ See details in the accompanying blog article here: https://forge.autodesk.com/bl
 
 ![ios](https://imgur.com/4hpDALc.png)
 
+## Tips and Tricks
+
+> How can I load model (SVFs) locally as assets/resources bundled with my app instead of from a remote location?
+
+Apart from the Service Worker workaround you can set up a http server to serve the SVFs, see [here for an example]( https://github.com/dukedhx/viewer-reason-react-native)
+
 
 ## License
 
